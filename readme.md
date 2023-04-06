@@ -1,6 +1,8 @@
 # Express-Api-Gateway
 
-Simples iniciativa para facilitar a criação de api gateway utilizando do framework express
+Simples iniciativa para facilitar a criação de api gateway utilizando do framework express.
+
+Contribua, caso ache legal esta lib.
 
 ## Dependência
 
