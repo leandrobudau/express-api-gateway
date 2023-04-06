@@ -13,6 +13,9 @@
   "lint-staged": {
     "**/*.ts": "prettier --write --ignore-unknown"
   },
+  "peerDependencies": {
+    "express": ">=4"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "express-http-proxy": "^1.6.3",
