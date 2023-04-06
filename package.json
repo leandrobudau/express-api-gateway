@@ -1,7 +1,7 @@
 {
   "name": "express-api-gateway",
   "description": "Simples api gateway usando expressjs",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "scripts": {
     "start": "nodemon index.js",
     "build": "tsc",
