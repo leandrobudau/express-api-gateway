@@ -8,7 +8,7 @@
     "prepare": "husky install",
     "lint": "eslint -f unix \"src/**/*.{ts,tsx}\"",
     "prettier": "prettier --write .",
-    "generate-doc": "typedoc"
+    "docs": "typedoc"
   },
   "main": "dist/index.js",
   "lint-staged": {
