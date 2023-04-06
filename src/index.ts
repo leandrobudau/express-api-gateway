@@ -1,12 +1,12 @@
-
-const proxy = require("express-http-proxy");
+import proxy from "express-http-proxy";
+import { Express } from "express";
 
 class ApiGateway {
-  private app: any;
+  private app: Express;
   private path: string;
   private url: string;
 
-  constructor(app: any) {
+  constructor(app: Express) {
     this.app = app;
   }
 
