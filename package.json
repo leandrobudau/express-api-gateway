@@ -2,6 +2,11 @@
   "name": "express-api-gateway",
   "description": "Simples api gateway usando expressjs",
   "version": "0.4.0",
+  "author": {
+    "name": "Leandro Budau",
+    "email": "leandrobudau@gmail.com",
+    "url": "https://leandrobudau.com"
+  },
   "scripts": {
     "start": "nodemon index.js",
     "build": "tsc",
@@ -41,6 +46,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moesif/moesif-nodejs"
+    "url": "https://github.com/leandrobudau/express-api-gateway"
   }
 }
