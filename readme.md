@@ -4,7 +4,8 @@ Simples iniciativa para facilitar a criação de api gateway utilizando do frame
 
 ## Dependência
 
-ExpressJs
+express
+express-http-proxy
 
 ## Exemplo de uso
 
