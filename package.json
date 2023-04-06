@@ -1,7 +1,7 @@
 {
   "name": "express-api-gateway",
   "description": "Simples api gateway usando expressjs",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": {
     "name": "Leandro Budau",
     "email": "leandrobudau@gmail.com",
