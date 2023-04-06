@@ -48,5 +48,14 @@
     "type": "git",
     "url": "https://github.com/leandrobudau/express-api-gateway"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "api gateway",
+    "express",
+    "gateway",
+    "proxy",
+    "express api gateway",
+    "gateway",
+    "express-http-proxy"
+  ]
 }
