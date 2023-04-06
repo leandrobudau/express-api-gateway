@@ -25,4 +25,4 @@ class ApiGateway {
   }
 }
 
-module.exports = ApiGateway;
+export default ApiGateway;
